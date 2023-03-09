@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanishqa Arora
 - 👀 I’m interested in Javascript Development
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently increasing my Backend skills.
 - 💞️ I’m looking to collaborate on any idea which makes world more livable
 - 📫 How to reach me? Just mail me on tanishqa164@gmail.com
 
